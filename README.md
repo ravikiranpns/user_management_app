@@ -65,7 +65,7 @@ This is a simple user management application built using **Go**, **Gin** for rou
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/user_management_app.git
+git clone git@github.com:ravikiranpns/user_management_app.git
 cd user_management_app
 ```
 
